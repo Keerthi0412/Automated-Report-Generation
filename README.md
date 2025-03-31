@@ -60,3 +60,9 @@ The Multi-Format File Analyzer is highly useful in various domains, including:
 - Content Analysis – Examining word frequencies in articles, books, and presentations.
 - Corporate Documentation – Extracting insights from business reports, meeting notes, and PowerPoint slides.  
 - Legal and Compliance – Reviewing contracts, agreements, and case studies for textual analysis.
+
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/e2c4d107-6e6e-4f70-9a6c-00b9d0e0cea0)
+
